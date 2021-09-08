@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  method: one
+  method_type: Method
+
+two:
+  name: MyString
+  method: two
+  method_type: Method
